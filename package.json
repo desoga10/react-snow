@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack": "^3.3.7"
+  },
+  "dependencies": {
+    "react": "^18.0.0-alpha-ed6c091fe-20210701",
+    "react-dom": "^18.0.0-alpha-ed6c091fe-20210701"
+  }
+}
